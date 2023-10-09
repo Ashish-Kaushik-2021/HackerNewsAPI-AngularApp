@@ -1,0 +1,28 @@
+
+
+<p *ngIf="!paginatedStories"><em>Loading....</em></p>
+
+
+<div class="container" *ngIf="paginatedStories">
+  <h2>This component demonstrates fetching data from the Hackrnews server.</h2>
+  <ul class="responsive-table">
+    <li class="table-header">
+      <div class="col col-half">Hacker News Top Stories</div>
+      <div class="col col-half">
+        <form>
+          <input placeholder="Search.." (keyup)="search($event)">
+        </form>
+      </div>
+    </li>
+    <li class="table-row" *ngFor="let story of paginatedStories" (click)="open(story.url)">
+      <div class="col col-full" data-label="title">
+        {{ story.title }}
+        <a>{{ story.url }}</a>
+      </div>
+    </li>
+  </ul>
+
+  <app-pagination *ngIf="totalItems" [totalItems]="totalItems" [itemsPerPage]="itemsPerPage"
+                  (pageChange)="onPageChange($event)"></app-pagination>
+</div>
+

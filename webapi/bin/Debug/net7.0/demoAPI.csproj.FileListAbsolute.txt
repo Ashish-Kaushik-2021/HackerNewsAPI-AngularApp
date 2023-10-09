@@ -1,0 +1,9 @@
+C:\Users\Ashish\source\repos\Solution1\webapi\bin\Debug\net7.0\demoAPI.csproj.AssemblyReference.cache
+C:\Users\Ashish\source\repos\Solution1\webapi\bin\Debug\net7.0\demoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashish\source\repos\Solution1\webapi\bin\Debug\net7.0\demoAPI.AssemblyInfoInputs.cache
+C:\Users\Ashish\source\repos\Solution1\webapi\bin\Debug\net7.0\demoAPI.AssemblyInfo.cs
+C:\Users\Ashish\source\repos\Solution1\webapi\bin\Debug\net7.0\demoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ashish\source\repos\Solution1\webapi\bin\Debug\net7.0\demoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ashish\source\repos\Solution1\webapi\bin\Debug\net7.0\demoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ashish\source\repos\Solution1\webapi\bin\Debug\net7.0\demoAPI.dll
+C:\Users\Ashish\source\repos\Solution1\webapi\bin\Debug\net7.0\demoAPI.pdb

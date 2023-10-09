@@ -1,0 +1,10 @@
+<ul class="pagination">
+  <li class="page-item" *ngFor="let page of pages">
+    <a
+       class="page-link"
+       (click)="changePage(page)"
+       [class.active]="currentPage == page">
+      {{ page }}
+    </a>
+  </li>
+</ul>
