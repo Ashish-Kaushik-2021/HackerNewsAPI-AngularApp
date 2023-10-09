@@ -1,2 +1,0 @@
-C:\Users\Ashish\source\repos\Solution1\WebApi.UnitTest\obj\Debug\WebApi.UnitTest.csproj.AssemblyReference.cache
-C:\Users\Ashish\source\repos\Solution1\WebApi.UnitTest\obj\Debug\WebApi.UnitTest.csproj.CoreCompileInputs.cache
